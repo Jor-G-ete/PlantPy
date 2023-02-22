@@ -1,1 +1,5 @@
+# This must be downloaded from Conda-Forge
 Django=3.2.10
+fastapi
+uvicorn[standard]
+sqlalchemy
